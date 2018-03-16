@@ -1,0 +1,25 @@
+{
+  "name": "planted",
+  "version": "1.0.0",
+  "description": "Cryptocurrencies tickerplant",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/atemerev/planted.git"
+  },
+  "keywords": [
+    "tickerplant",
+    "cryptocurrency",
+    "trading"
+  ],
+  "author": "Alexander Temerev",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/atemerev/planted/issues"
+  },
+  "homepage": "https://github.com/atemerev/planted#readme"
+}
